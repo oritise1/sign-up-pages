@@ -1,0 +1,29 @@
+.right{
+    width: 597px;
+    height: 1024px;
+    margin-left: 843px;
+    
+}
+.img{
+    right: 0%;
+    position: absolute;
+    top: 0%;
+}
+.left {
+margin-top: 100px;
+margin-left: 50px;
+width: 50%;
+height: 100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.welcome{
+    margin-top: -12px;
+    margin-left: 69px;
+    width: 686px;
+    height: 860px;
+}
+.wrap {
+    display: flex;
+}
